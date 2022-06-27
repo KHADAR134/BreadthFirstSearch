@@ -33,10 +33,10 @@ End of program.
 
 
 ## PROGRAM
-```python
-NAME : KHADAR BHASHA
-REG NO : 212220230045
- ```
+```python 
+#DEVELOPED BY: SHAIK KHADAR BASHA
+#REGISTER NO : 212220230045
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
